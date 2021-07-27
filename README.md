@@ -1,4 +1,4 @@
-# CookversationalSearch
+![beersoup](beer_soup.png)
 In this repository you find data that has been gathered when conducting in-situ experiments in a conversational cooking setting. These data include **transcripts**,**annotations** and **code** to analyse these data.
 
 When you are here while reading our paper, you might have following questions:
