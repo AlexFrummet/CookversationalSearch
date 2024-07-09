@@ -17,7 +17,7 @@ The fully annotated dataset with all information needs, german and english turns
 
 ## Citation
 ```bibtex
-@article{DBLP:journals/tois/FrummetEL22,
+@article{frummet2022whatcani,
   author       = {Alexander Frummet and
                   David Elsweiler and
                   Bernd Ludwig},
