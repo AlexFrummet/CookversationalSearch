@@ -14,3 +14,20 @@ You find code for both the baseline models, the BERT based models and the result
 Yes! ```Statistical Analysis.ipynb``` in the ```experiments```folder is the relevant file.
 ## Where is the *CookversationalSearch* dataset?
 The fully annotated dataset with all information needs, german and english turns (translated with DeepL) is here: ```annotation/corpus/cookversational_search_dataset```
+
+## Citation
+```bibtex
+@article{DBLP:journals/tois/FrummetEL22,
+  author       = {Alexander Frummet and
+                  David Elsweiler and
+                  Bernd Ludwig},
+  title        = {{"What Can {I} Cook with these Ingredients?" - Understanding Cooking-Related
+                  Information Needs in Conversational Search}},
+  journal      = {{ACM} Trans. Inf. Syst.},
+  volume       = {40},
+  number       = {4},
+  pages        = {81:1--81:32},
+  year         = {2022},
+  url          = {https://doi.org/10.1145/3498330},
+}
+```
